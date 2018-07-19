@@ -26,6 +26,7 @@ const Header = ({ siteTitle }) => (
           {siteTitle}
         </Link>
       </h1>
+      <span>Vì Thiên Chúa yêu thương thế gian...!</span>
     </div>
   </div>
 )

@@ -18,7 +18,6 @@ const IndexPage = () => (
         được sự sống dư dật" (GIĂNG 10:10b BPT)
       </p>
     </Fade>
-    <Link to="/who-is-jesus/">Giê-xu là ai?</Link>
   </div>
 )
 
